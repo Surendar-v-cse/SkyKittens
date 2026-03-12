@@ -18,7 +18,7 @@ export const JETS: FighterJet[] = [
     name: "F-22 Raptor (Kitten Edition)",
     origin: "USA",
     description: "The world's premier air dominance fighter, now featuring custom retractable cat ears and paw-print stealth coating.",
-    imageUrl: "https://picsum.photos/seed/f22-cat/800/600",
+    imageUrl: ,
     meowPower: 98,
     fluffiness: "Cloud-like",
     maxSpeed: "Mach 2.25",
